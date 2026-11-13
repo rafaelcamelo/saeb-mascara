@@ -14,7 +14,6 @@ Desde o Saeb 2021, o Inep publica os microdados do Saeb com códigos fictícios 
 Uma escola entra numa linha quando tem matrícula ou alunos presentes naquela série. A linha "Todas" conta cada escola uma vez.
 
 - Texto para o público geral: [`docs/as_mascaras_estao_caindo.pdf`](docs/as_mascaras_estao_caindo.pdf)
-- Carrossel: [`docs/carrossel_saeb_mascara.pdf`](docs/carrossel_saeb_mascara.pdf)
 - Tabela de correspondência: [`dados/crosswalk_saeb2023_escolas.csv`](dados/crosswalk_saeb2023_escolas.csv)
 
 ---
@@ -109,7 +108,6 @@ dados/
   saeb2021_nao_pareadas_candidatas.csv    # 113 escolas não pareadas e suas candidatas
 docs/
   as_mascaras_estao_caindo.pdf            # texto para o público geral
-  carrossel_saeb_mascara.pdf              # carrossel (LinkedIn)
 ```
 
 ### Colunas principais do crosswalk
@@ -179,4 +177,4 @@ O que se recupera é o **código da escola**. Os microdados do Saeb não têm no
 - Código: MIT (ver `LICENSE`).
 - Tabelas em `dados/` e textos em `docs/`: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
 
-> Camelo, Rafael. *As máscaras estão caindo: recuperação do código INEP das escolas do Saeb 2023 com dados públicos.* 2026. Disponível em: https://github.com/&lt;usuario&gt;/saeb-mascara
+> Camelo, Rafael. *As máscaras estão caindo: recuperação do código INEP das escolas do Saeb 2021 e 2023 com dados públicos.* 2026. Disponível em: https://github.com/rafaelcamelo/saeb-mascara
