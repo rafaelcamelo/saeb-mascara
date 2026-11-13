@@ -1,0 +1,12 @@
+# dados brutos do Inep (baixar do portal; não versionar)
+dados_inep/
+microdados_*/
+divulgacao_*/
+AFD_*/
+INSE_*.xlsx
+saida/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
